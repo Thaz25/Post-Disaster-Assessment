@@ -1,0 +1,11 @@
+torch
+torchvision
+streamlit
+opencv-python
+albumentations
+pandas
+matplotlib
+numpy
+pillow
+scikit-learn
+grad-cam
